@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.top-nav{
+    height: 40px;
+    width: 1920px;
+    background-color: #f6f6f6;
+}
